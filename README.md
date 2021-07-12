@@ -1,5 +1,5 @@
 # Digital Innovation One
 
-### Trilha Kotlin
+## Trilha Kotlin
 
-Projeto para introdução a aula de POO em Kotlin
+Projeto para introdução a aula de POO e Collections em Kotlin
