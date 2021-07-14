@@ -9,14 +9,14 @@ fun main() {
     val funcionarios2 = listOf(maria)
 
     val resultUnion = funcionarios1.union(funcionarios2)
-    resultUnion.forEach{ println(it)}
+    resultUnion.forEach { println(it) }
     println("-----------------------------")
 
     val funcionarios3 = listOf(joao, pedro, maria)
     val resultSubtract = funcionarios3.subtract(funcionarios2)
-    resultSubtract.forEach{ println(it)}
+    resultSubtract.forEach { println(it) }
     println("-----------------------------")
 
     val resultIntersect = funcionarios3.intersect(funcionarios2)
-    resultIntersect.forEach{ println(it)}
+    resultIntersect.forEach { println(it) }
 }
